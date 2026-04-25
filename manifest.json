@@ -1,0 +1,25 @@
+{
+  "name": "震災アクションガイド iPhone対応版",
+  "short_name": "震災AC",
+  "description": "災害時の初動対応をすばやく確認するための院内アクションガイドです。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#b91c1c",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
